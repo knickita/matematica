@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 55b93bbf3e524974d870ba87908202e7
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 82a1957e7bb191a41b207c75e2434c15
+  - enabled: 1
+    path: Assets/Scenes/Freeform.unity
+    guid: c030dcd626f6e394b9ac88ebf84918ff
+  - enabled: 1
+    path: Assets/Scenes/Muretti.unity
+    guid: f05391e92ab2ef247b314ffd108ad177
+  - enabled: 1
+    path: Assets/Scenes/Incollali.unity
+    guid: 56bc699fff0493c4e8af8d48d141170a
+  - enabled: 1
+    path: Assets/Scenes/Tetris.unity
+    guid: 87a08f05d0ba02c43aac91dadb8dcaee
+  m_configObjects: {}
